@@ -1,0 +1,170 @@
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\KursCarShop.exe.config
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\KursCarShop.exe
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\KursCarShop.pdb
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\BLL.dll
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\Ninject.dll
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\DAL.dll
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\EntityFramework.dll
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\BLL.pdb
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\BLL.dll.config
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\Ninject.xml
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\DAL.pdb
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\DAL.dll.config
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\EntityFramework.xml
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\KursCarShop.csproj.AssemblyReference.cache
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\KursCarShop.csproj.SuggestedBindingRedirects.cache
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\App.g.cs
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\KursCarShop_MarkupCompile.cache
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\KursCarShop.g.resources
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\KursCarShop.Properties.Resources.resources
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\KursCarShop.csproj.GenerateResource.cache
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\KursCarShop.csproj.CoreCompileInputs.cache
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\KursCarShop.csproj.CopyComplete
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\KursCarShop.exe
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\KursCarShop.pdb
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\Ninject.Web.Common.dll
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\Ninject.Web.Mvc.dll
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\System.Web.Helpers.dll
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\System.Web.Mvc.dll
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\System.Web.Razor.dll
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\System.Web.WebPages.dll
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\Ninject.Web.Common.xml
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\Ninject.Web.Mvc.xml
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\System.Web.Helpers.xml
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\System.Web.Mvc.xml
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\System.Web.Razor.xml
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\System.Web.WebPages.xml
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proga\KursCarShop\KursCarShop\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Cars\CreateCarWindow.baml
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Cars\ShowCarWindow.baml
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Cars\UpdateCarWindow.baml
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Cars\CreateCarWindow.g.cs
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Cars\ShowCarWindow.g.cs
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Cars\UpdateCarWindow.g.cs
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Brands\IndexBrandWindow.baml
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\MainWindow.baml
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Brands\IndexBrandWindow.g.cs
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\MainWindow.g.cs
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Brands\CreateBrandWindow.baml
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Brands\CreateBrandWindow.g.cs
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Brands\UpdateBrandWindow.baml
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Brands\UpdateBrandWindow.g.cs
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Models\CreateModelWindow.baml
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Models\IndexModelWindow.baml
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Models\CreateModelWindow.g.cs
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Models\IndexModelWindow.g.cs
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Models\UpdateModelWindow.baml
+C:\Proga\KursCarShop\KursCarShop\obj\Debug\Models\UpdateModelWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\KursCarShop.csproj.AssemblyReference.cache
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\KursCarShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Brands\CreateBrandWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Brands\IndexBrandWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Brands\UpdateBrandWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Cars\CreateCarWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\MainWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Cars\ShowCarWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Cars\UpdateCarWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Models\CreateModelWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Models\IndexModelWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Models\UpdateModelWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Brands\CreateBrandWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Brands\IndexBrandWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Brands\UpdateBrandWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Cars\CreateCarWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\MainWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Cars\ShowCarWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Cars\UpdateCarWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Models\CreateModelWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Models\IndexModelWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Models\UpdateModelWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\App.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\KursCarShop_MarkupCompile.cache
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\KursCarShop.g.resources
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\KursCarShop.Properties.Resources.resources
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\KursCarShop.csproj.GenerateResource.cache
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\KursCarShop.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\KursCarShop.exe
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\KursCarShop.pdb
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\KursCarShop.exe.config
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\KursCarShop.exe
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\KursCarShop.pdb
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\BLL.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\EntityFramework.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\Ninject.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\Ninject.Web.Common.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\Ninject.Web.Mvc.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\System.Web.Helpers.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\System.Web.Mvc.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\System.Web.Razor.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\System.Web.WebPages.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\DAL.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\BLL.pdb
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\BLL.dll.config
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\EntityFramework.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\Ninject.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\System.Web.Helpers.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\System.Web.Mvc.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\System.Web.Razor.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\System.Web.WebPages.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\DAL.pdb
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\DAL.dll.config
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\KursCarShop.csproj.CopyComplete
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Users\IndexUserWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Users\IndexUserWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Users\CreateUserWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Users\UpdateUserWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Users\CreateUserWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Users\UpdateUserWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Clients\CreateClientWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Clients\IndexClientWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Clients\UpdateClientWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Clients\CreateClientWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Clients\IndexClientWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Clients\UpdateClientWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Employees\CreateEmployeeWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Employees\IndexEmployeeWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Employees\UpdateEmployeeWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Employees\CreateEmployeeWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Employees\IndexEmployeeWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Employees\UpdateEmployeeWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Equipments\CreateEquipmentWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Equipments\IndexEquipmentWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Equipments\UpdateEquipmentWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Equipments\CreateEquipmentWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Equipments\IndexEquipmentWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Equipments\UpdateEquipmentWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Orders\CreateOrderWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Orders\IndexOrderWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Orders\UpdateOrderWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Orders\CreateOrderWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Orders\IndexOrderWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Orders\UpdateOrderWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Reports\CarsByHorseWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Reports\IndexReportWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Reports\CarsByHorseWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Reports\IndexReportWindow.g.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Reports\CarsByPriceWindow.baml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\Reports\CarsByPriceWindow.g.cs

@@ -1,0 +1,42 @@
+C:\Proga\CarShop3\DAL\bin\Debug\DAL.dll.config
+C:\Proga\CarShop3\DAL\bin\Debug\DAL.dll
+C:\Proga\CarShop3\DAL\bin\Debug\DAL.pdb
+C:\Proga\CarShop3\DAL\bin\Debug\EntityFramework.dll
+C:\Proga\CarShop3\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proga\CarShop3\DAL\bin\Debug\EntityFramework.xml
+C:\Proga\CarShop3\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proga\CarShop3\DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Proga\CarShop3\DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Proga\CarShop3\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Proga\CarShop3\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Proga\CarShop3\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Proga\CarShop3\DAL\obj\Debug\DAL.dll
+C:\Proga\CarShop3\DAL\obj\Debug\DAL.pdb
+C:\Proga\CarShop4\DAL\bin\Debug\DAL.dll.config
+C:\Proga\CarShop4\DAL\bin\Debug\DAL.dll
+C:\Proga\CarShop4\DAL\bin\Debug\DAL.pdb
+C:\Proga\CarShop4\DAL\bin\Debug\EntityFramework.dll
+C:\Proga\CarShop4\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proga\CarShop4\DAL\bin\Debug\EntityFramework.xml
+C:\Proga\CarShop4\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proga\CarShop4\DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Proga\CarShop4\DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Proga\CarShop4\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Proga\CarShop4\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Proga\CarShop4\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Proga\CarShop4\DAL\obj\Debug\DAL.dll
+C:\Proga\CarShop4\DAL\obj\Debug\DAL.pdb
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\DAL\bin\Debug\DAL.dll.config
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\DAL\bin\Debug\DAL.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\DAL\bin\Debug\DAL.pdb
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\DAL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\DAL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\DAL\obj\Debug\DAL.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\DAL\obj\Debug\DAL.pdb

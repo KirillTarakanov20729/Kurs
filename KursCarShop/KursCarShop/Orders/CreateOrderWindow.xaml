@@ -1,0 +1,42 @@
+﻿<Window x:Class="KursCarShop.Orders.CreateOrderWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CarShop" Height="350" Width="500" WindowStyle="ThreeDBorderWindow">
+    <Grid Margin="20">
+        <Border Background="#F5F5F5" CornerRadius="10">
+            <StackPanel Margin="10">
+                <TextBlock Text="Добавить заказ" FontWeight="Bold" FontSize="18" HorizontalAlignment="Center" Margin="0,0,0,10" />
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="Машина:" FontWeight="Bold" Width="80" VerticalAlignment="Center" />
+                    <ComboBox Name="Car_id" Width="150" DisplayMemberPath="id" Margin="5,0" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="Клиент:" FontWeight="Bold" Width="80" VerticalAlignment="Center" />
+                    <ComboBox Name="Client_id" Width="150" DisplayMemberPath="id" Margin="5,0" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="Сотрудник:" FontWeight="Bold" Width="80" VerticalAlignment="Center" />
+                    <ComboBox Name="Employee_id" Width="150" DisplayMemberPath="id" Margin="5,0" />
+                </StackPanel>
+
+
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="Дата:" FontWeight="Bold" Width="80" VerticalAlignment="Center" />
+                    <DatePicker Name="dateOrder" Width="150" Margin="5,0" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="Статус:" FontWeight="Bold" Width="80" VerticalAlignment="Center" />
+                    <CheckBox Name="statusCheckBox" Margin="5,0" />
+                </StackPanel>
+
+
+                <Button Content="Сохранить" Width="100" HorizontalAlignment="Center" Background="#3498db" Foreground="White" Margin="0,20" Click="CreateOrderSave" />
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>

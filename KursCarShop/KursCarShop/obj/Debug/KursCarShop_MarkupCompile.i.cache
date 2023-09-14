@@ -1,0 +1,20 @@
+﻿KursCarShop
+
+
+winexe
+C#
+.cs
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\obj\Debug\
+KursCarShop
+none
+false
+DEBUG;TRACE
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\KursCarShop\App.xaml
+28674804989
+
+341507365892
+291345803371
+Brands\CreateBrandWindow.xaml;Brands\IndexBrandWindow.xaml;Brands\UpdateBrandWindow.xaml;Cars\CreateCarWindow.xaml;Clients\CreateClientWindow.xaml;Clients\IndexClientWindow.xaml;Clients\UpdateClientWindow.xaml;Employees\CreateEmployeeWindow.xaml;Employees\IndexEmployeeWindow.xaml;Employees\UpdateEmployeeWindow.xaml;Equipments\CreateEquipmentWindow.xaml;Equipments\IndexEquipmentWindow.xaml;Equipments\UpdateEquipmentWindow.xaml;MainWindow.xaml;Cars\ShowCarWindow.xaml;Cars\UpdateCarWindow.xaml;Models\CreateModelWindow.xaml;Models\IndexModelWindow.xaml;Models\UpdateModelWindow.xaml;Orders\CreateOrderWindow.xaml;Orders\IndexOrderWindow.xaml;Orders\UpdateOrderWindow.xaml;Reports\CarsByHorseWindow.xaml;Reports\CarsByPriceWindow.xaml;Reports\IndexReportWindow.xaml;Users\CreateUserWindow.xaml;Users\IndexUserWindow.xaml;Users\UpdateUserWindow.xaml;
+
+True
+

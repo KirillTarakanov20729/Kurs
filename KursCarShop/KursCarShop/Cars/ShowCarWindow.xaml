@@ -1,0 +1,45 @@
+﻿<Window x:Class="KursCarShop.ShowCarWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CarShop" Height="550" Width="750" WindowStyle="ThreeDBorderWindow">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#3498db" />
+            <Setter Property="FontSize" Value="14" />
+            <Setter Property="Padding" Value="5" />
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <StackPanel Margin="20">
+            <TextBlock Text="Информация о машине" FontSize="18" FontWeight="Bold" Margin="0,0,0,10" TextAlignment="Center"/>
+
+            <TextBlock Text="Марка:" FontWeight="Bold" Margin="0,0,0,5"/>
+            <TextBlock Text="{Binding CarToShow.Equipment.Model.Brand.name}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Модель:" FontWeight="Bold" Margin="0,0,0,5" />
+            <TextBlock Text="{Binding CarToShow.Equipment.Model.name}" Margin="0,0,0,10" />
+
+            <TextBlock Text="Лошадиных сил:" FontWeight="Bold" Margin="0,0,0,5" />
+            <TextBlock Text="{Binding CarToShow.Equipment.horsepower}" Margin="0,0,0,10" />
+
+            <TextBlock Text="Объем двигателя:" FontWeight="Bold" Margin="0,0,0,5" />
+            <TextBlock Text="{Binding CarToShow.Equipment.DisplayCapacity}" Margin="0,0,0,10" />
+
+            <TextBlock Text="Коробка передач:" FontWeight="Bold" Margin="0,0,0,5" />
+            <TextBlock Text="{Binding CarToShow.Equipment.transmission}" Margin="0,0,0,10" />
+
+            <TextBlock Text="Цена:" FontWeight="Bold" Margin="0,0,0,5" />
+            <TextBlock Text="{Binding CarToShow.price}" Margin="0,0,0,10" />
+
+            <TextBlock Text="Цвет:" FontWeight="Bold" Margin="0,0,0,5" />
+            <TextBlock Text="{Binding CarToShow.colour}" Margin="0,0,0,10"/>
+
+            <TextBlock Text="Доступность:" FontWeight="Bold" Margin="0,0,0,5"/>
+            <TextBlock Text="{Binding CarToShow.AvailabilityText}" Margin="0,0,0,10"/>
+            <Button Content="Обратно" Click="Back" Width="150"/>
+        </StackPanel>
+    </Grid>
+</Window>
+
+

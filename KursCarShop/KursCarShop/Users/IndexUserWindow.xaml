@@ -1,0 +1,49 @@
+﻿<Window x:Class="KursCarShop.Users.IndexUserWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CarShop" Height="450" Width="750" WindowStyle="ThreeDBorderWindow">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#3498db" />
+            <Setter Property="FontSize" Value="14" />
+            <Setter Property="Padding" Value="5" />
+            <Setter Property="Margin" Value="0,2" />
+            <Setter Property="Width" Value="700" />
+        </Style>
+
+        <Style TargetType="DataGrid">
+            <Setter Property="BorderBrush" Value="#3498db" />
+            <Setter Property="BorderThickness" Value="1" />
+            <Setter Property="Background" Value="White" />
+            <Setter Property="CanUserAddRows" Value="False" />
+            <Setter Property="CanUserDeleteRows" Value="False" />
+
+            <Setter Property="AutoGenerateColumns" Value="False" />
+            <Setter Property="Width" Value="700" />
+        </Style>
+
+        <Style TargetType="DataGridColumnHeader">
+            <Setter Property="Background" Value="#3498db" />
+            <Setter Property="Foreground" Value="White" />
+            <Setter Property="Padding" Value="5" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <StackPanel>
+            <Button Content="Добавить пользователя" Click="AddUser" />
+            <Button Content="Изменить пользователя" Click="UpdateUser" />
+            <Button Content="Удалить пользователя" Click="DeleteUser" />
+            <Button Content="Клиенты" Click="IndexClient" />
+            <Button Content="Сотрудники" Click="IndexEmployee" />
+            <Button Content="Закрыть" Click="CloseUser" />
+
+            <DataGrid x:Name="userDataGrid" Height="300">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding id}" Width="230" />
+                    <DataGridTextColumn Header="Тип пользователя" Binding="{Binding Type.type}" Width="230" />
+                    <DataGridTextColumn Header="Данные" Binding="{Binding DisplayString}" Width="230" />
+                </DataGrid.Columns>
+            </DataGrid>
+        </StackPanel>
+    </Grid>
+</Window>

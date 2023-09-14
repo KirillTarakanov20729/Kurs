@@ -1,0 +1,83 @@
+C:\Proga\CarShop3\BLL\bin\Debug\BLL.dll.config
+C:\Proga\CarShop3\BLL\bin\Debug\BLL.dll
+C:\Proga\CarShop3\BLL\bin\Debug\BLL.pdb
+C:\Proga\CarShop3\BLL\bin\Debug\DAL.dll
+C:\Proga\CarShop3\BLL\bin\Debug\EntityFramework.dll
+C:\Proga\CarShop3\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proga\CarShop3\BLL\bin\Debug\DAL.pdb
+C:\Proga\CarShop3\BLL\bin\Debug\DAL.dll.config
+C:\Proga\CarShop3\BLL\bin\Debug\EntityFramework.xml
+C:\Proga\CarShop3\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proga\CarShop3\BLL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Proga\CarShop3\BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Proga\CarShop3\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Proga\CarShop3\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Proga\CarShop3\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Proga\CarShop3\BLL\obj\Debug\BLL.dll
+C:\Proga\CarShop3\BLL\obj\Debug\BLL.pdb
+C:\Proga\CarShop4\BLL\bin\Debug\BLL.dll.config
+C:\Proga\CarShop4\BLL\bin\Debug\BLL.dll
+C:\Proga\CarShop4\BLL\bin\Debug\BLL.pdb
+C:\Proga\CarShop4\BLL\bin\Debug\DAL.dll
+C:\Proga\CarShop4\BLL\bin\Debug\EntityFramework.dll
+C:\Proga\CarShop4\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Proga\CarShop4\BLL\bin\Debug\DAL.pdb
+C:\Proga\CarShop4\BLL\bin\Debug\DAL.dll.config
+C:\Proga\CarShop4\BLL\bin\Debug\EntityFramework.xml
+C:\Proga\CarShop4\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Proga\CarShop4\BLL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Proga\CarShop4\BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Proga\CarShop4\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Proga\CarShop4\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Proga\CarShop4\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Proga\CarShop4\BLL\obj\Debug\BLL.dll
+C:\Proga\CarShop4\BLL\obj\Debug\BLL.pdb
+C:\Proga\CarShop4\BLL\bin\Debug\Ninject.dll
+C:\Proga\CarShop4\BLL\bin\Debug\Ninject.xml
+C:\Proga\CarShop4\BLL\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Proga\CarShop4\BLL\bin\Debug\Ninject.Web.Common.dll
+C:\Proga\CarShop4\BLL\bin\Debug\Ninject.Web.Common.WebHost.dll
+C:\Proga\CarShop4\BLL\bin\Debug\Ninject.Web.Mvc.dll
+C:\Proga\CarShop4\BLL\bin\Debug\System.Web.Helpers.dll
+C:\Proga\CarShop4\BLL\bin\Debug\System.Web.Mvc.dll
+C:\Proga\CarShop4\BLL\bin\Debug\System.Web.Razor.dll
+C:\Proga\CarShop4\BLL\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Proga\CarShop4\BLL\bin\Debug\System.Web.WebPages.dll
+C:\Proga\CarShop4\BLL\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Proga\CarShop4\BLL\bin\Debug\Ninject.Web.Common.xml
+C:\Proga\CarShop4\BLL\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Proga\CarShop4\BLL\bin\Debug\Ninject.Web.Mvc.xml
+C:\Proga\CarShop4\BLL\bin\Debug\System.Web.Helpers.xml
+C:\Proga\CarShop4\BLL\bin\Debug\System.Web.Mvc.xml
+C:\Proga\CarShop4\BLL\bin\Debug\System.Web.Razor.xml
+C:\Proga\CarShop4\BLL\bin\Debug\System.Web.WebPages.xml
+C:\Proga\CarShop4\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Proga\CarShop4\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\BLL.dll.config
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\BLL.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\BLL.pdb
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\DAL.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\Ninject.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\DAL.pdb
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\DAL.dll.config
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\Ninject.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\Ninject.Web.Common.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\Ninject.Web.Common.WebHost.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\Ninject.Web.Mvc.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\System.Web.Helpers.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\System.Web.Razor.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\System.Web.WebPages.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\obj\Debug\BLL.dll
+C:\Users\Кирилл Тараканов\Desktop\KursCarShop\BLL\obj\Debug\BLL.pdb

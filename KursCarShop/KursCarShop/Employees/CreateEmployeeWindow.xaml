@@ -1,0 +1,29 @@
+﻿<Window x:Class="KursCarShop.Employees.CreateEmployeeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="CarShop" Height="300" Width="500" WindowStyle="ThreeDBorderWindow">
+    <Grid Margin="20">
+        <Border Background="#F5F5F5" CornerRadius="10">
+            <StackPanel Margin="10">
+                <TextBlock Text="Добавить сотрудника" FontWeight="Bold" FontSize="18" HorizontalAlignment="Center" Margin="0,0,0,10" />
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="Пользователь:" FontWeight="Bold" Width="90" VerticalAlignment="Center" />
+                    <ComboBox Name="User_id" Width="150" DisplayMemberPath="DisplayString" Margin="5,0" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="Телефон:" FontWeight="Bold" Width="90" VerticalAlignment="Center" />
+                    <TextBox Name="phoneTextBox" Width="150" Margin="5,0" />
+                </StackPanel>
+
+                <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                    <TextBlock Text="ФИО:" FontWeight="Bold" Width="90" VerticalAlignment="Center" />
+                    <TextBox Name="FIOTextBox" Width="150" Margin="5,0" />
+                </StackPanel>
+
+                <Button Content="Сохранить" Width="100" HorizontalAlignment="Center" Background="#3498db" Foreground="White" Margin="0,20" Click="CreateEmployeeSave" />
+            </StackPanel>
+        </Border>
+    </Grid>
+</Window>
